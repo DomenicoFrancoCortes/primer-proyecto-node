@@ -1,0 +1,16 @@
+[{
+    "id": 1,
+    "nombre": "Ana",
+    "apellidos": "Marcia Gonzalez"
+},
+{
+    "id": 2,
+    "nombre": "Domenico",
+    "apellidos": "Franco Cortes"
+},
+{
+    "id": 3,
+    "nombre": "Cristian",
+    "apellidos": "Gonzalez Cardenas"
+}
+]
